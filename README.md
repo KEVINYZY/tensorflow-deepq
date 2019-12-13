@@ -89,3 +89,4 @@ To write your own simulation define a simulation class with 4 functions:
 #### Creating GIFs based on simulation
 The `simulate` method accepts `save_path` argument which is a folder where all the consecutive images will be stored.
 To make them into a GIF use `scripts/make_gif.sh PATH` where path is the same as the path you passed to `save_path` argument
+zd
